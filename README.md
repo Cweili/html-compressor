@@ -1,11 +1,11 @@
 HTML Compressor
 ===========
 
-A filter implements htmlcompressor(http://code.google.com/p/htmlcompressor/).
+A filter implements [htmlcompressor](http://code.google.com/p/htmlcompressor/).
 
 Dependency
 -----------
-Javascript, CSS Compress:
+Javascript, CSS Compress: 
 [YUI Compressor](https://github.com/yui/yuicompressor)
 
 Examples
